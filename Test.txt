@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-rjrjrrjrjrjasdasd
-=======
-potato
->>>>>>> Stashed change
-git hub change test
